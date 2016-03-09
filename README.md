@@ -4,6 +4,8 @@ This is a demonstration of how a [Emberjs](http://emberjs.com/) front-end intera
 
 The [Django](https://www.djangoproject.com/) backend may be found in another project of mine [django-restful-ember-testbed](https://github.com/shearichard/django-restful-ember-testbed).
 
+The project makes use of the [Ember Django Adapter](http://dustinfarris.com/ember-django-adapter/) ([github](https://github.com/dustinfarris/ember-django-adapter)).
+
 ## Prerequisites
 
 You will need the following things properly installed on your computer.
