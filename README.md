@@ -1,7 +1,8 @@
 # Ember-django-testbed
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This is a demonstration of how a [Emberjs](http://emberjs.com/) front-end interacts with a [Django](https://www.djangoproject.com/) backend.
+
+The [Django](https://www.djangoproject.com/) backend may be found in another project of mine [django-restful-ember-testbed](https://github.com/shearichard/django-restful-ember-testbed).
 
 ## Prerequisites
 
