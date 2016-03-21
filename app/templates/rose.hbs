@@ -1,0 +1,14 @@
+<h2>A list of Roses</h2>
+<h3>A test of lists</h3>
+<div class="row">
+  <div class="col-md-5">
+     <div class="list-group">
+          {{#each model as |roses|}}
+                roses.binomialNomenclature
+          {{/each}}
+    </div>
+  </div>
+    <div class="col-md-7">
+    {{outlet}}
+  </div>
+</div>
